@@ -1,0 +1,10 @@
+C:\Users\hp1\OneDrive\001-EZIndustrial\001-JAKA Zu 5\JAKA\HIM_JAKA\HIM_JAKA\bin\x86\Debug\HIM_JAKA.exe.config
+C:\Users\hp1\OneDrive\001-EZIndustrial\001-JAKA Zu 5\JAKA\HIM_JAKA\HIM_JAKA\bin\x86\Debug\HIM_JAKA.exe
+C:\Users\hp1\OneDrive\001-EZIndustrial\001-JAKA Zu 5\JAKA\HIM_JAKA\HIM_JAKA\bin\x86\Debug\HIM_JAKA.pdb
+C:\Users\hp1\OneDrive\001-EZIndustrial\001-JAKA Zu 5\JAKA\HIM_JAKA\HIM_JAKA\obj\x86\Debug\HIM_JAKA.csproj.AssemblyReference.cache
+C:\Users\hp1\OneDrive\001-EZIndustrial\001-JAKA Zu 5\JAKA\HIM_JAKA\HIM_JAKA\obj\x86\Debug\HIM_JAKA.Form1.resources
+C:\Users\hp1\OneDrive\001-EZIndustrial\001-JAKA Zu 5\JAKA\HIM_JAKA\HIM_JAKA\obj\x86\Debug\HIM_JAKA.Properties.Resources.resources
+C:\Users\hp1\OneDrive\001-EZIndustrial\001-JAKA Zu 5\JAKA\HIM_JAKA\HIM_JAKA\obj\x86\Debug\HIM_JAKA.csproj.GenerateResource.cache
+C:\Users\hp1\OneDrive\001-EZIndustrial\001-JAKA Zu 5\JAKA\HIM_JAKA\HIM_JAKA\obj\x86\Debug\HIM_JAKA.csproj.CoreCompileInputs.cache
+C:\Users\hp1\OneDrive\001-EZIndustrial\001-JAKA Zu 5\JAKA\HIM_JAKA\HIM_JAKA\obj\x86\Debug\HIM_JAKA.exe
+C:\Users\hp1\OneDrive\001-EZIndustrial\001-JAKA Zu 5\JAKA\HIM_JAKA\HIM_JAKA\obj\x86\Debug\HIM_JAKA.pdb

@@ -1,0 +1,16 @@
+C:\Users\hp1\OneDrive\001-EZIndustrial\001-JAKA Zu 5\JAKA\HIM_JAKA\HIM_JAKA\bin\x64\Debug\HIM_JAKA.exe.config
+C:\Users\hp1\OneDrive\001-EZIndustrial\001-JAKA Zu 5\JAKA\HIM_JAKA\HIM_JAKA\bin\x64\Debug\HIM_JAKA.exe
+C:\Users\hp1\OneDrive\001-EZIndustrial\001-JAKA Zu 5\JAKA\HIM_JAKA\HIM_JAKA\bin\x64\Debug\HIM_JAKA.pdb
+C:\Users\hp1\OneDrive\001-EZIndustrial\001-JAKA Zu 5\JAKA\HIM_JAKA\HIM_JAKA\obj\x64\Debug\HIM_JAKA.csproj.AssemblyReference.cache
+C:\Users\hp1\OneDrive\001-EZIndustrial\001-JAKA Zu 5\JAKA\HIM_JAKA\HIM_JAKA\obj\x64\Debug\HIM_JAKA.Form1.resources
+C:\Users\hp1\OneDrive\001-EZIndustrial\001-JAKA Zu 5\JAKA\HIM_JAKA\HIM_JAKA\obj\x64\Debug\HIM_JAKA.Properties.Resources.resources
+C:\Users\hp1\OneDrive\001-EZIndustrial\001-JAKA Zu 5\JAKA\HIM_JAKA\HIM_JAKA\obj\x64\Debug\HIM_JAKA.csproj.GenerateResource.cache
+C:\Users\hp1\OneDrive\001-EZIndustrial\001-JAKA Zu 5\JAKA\HIM_JAKA\HIM_JAKA\obj\x64\Debug\HIM_JAKA.csproj.CoreCompileInputs.cache
+C:\Users\hp1\OneDrive\001-EZIndustrial\001-JAKA Zu 5\JAKA\HIM_JAKA\HIM_JAKA\obj\x64\Debug\HIM_JAKA.exe
+C:\Users\hp1\OneDrive\001-EZIndustrial\001-JAKA Zu 5\JAKA\HIM_JAKA\HIM_JAKA\obj\x64\Debug\HIM_JAKA.pdb
+C:\Users\hp1\OneDrive\001-EZIndustrial\001-JAKA Zu 5\JAKA\HIM_JAKA\HIM_JAKA\bin\x64\Debug\jakaAPI.cs
+C:\Users\hp1\OneDrive\001-EZIndustrial\001-JAKA Zu 5\JAKA\HIM_JAKA\HIM_JAKA\bin\x64\Debug\jkType.cs
+C:\Users\hp1\OneDrive\001-EZIndustrial\001-JAKA Zu 5\JAKA\HIM_JAKA\HIM_JAKA\bin\x64\Debug\jakaAPI.dll
+C:\Users\hp1\OneDrive\001-EZIndustrial\001-JAKA Zu 5\JAKA\HIM_JAKA\HIM_JAKA\bin\x64\Debug\Program.cs
+C:\Users\hp1\OneDrive\001-EZIndustrial\001-JAKA Zu 5\JAKA\HIM_JAKA\HIM_JAKA\bin\x64\Debug\HIM_JAKA.exe.CodeAnalysisLog.xml
+C:\Users\hp1\OneDrive\001-EZIndustrial\001-JAKA Zu 5\JAKA\HIM_JAKA\HIM_JAKA\bin\x64\Debug\HIM_JAKA.exe.lastcodeanalysissucceeded
